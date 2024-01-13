@@ -1,4 +1,10 @@
 # Code Workshop
+* [Version Control]()
+## Requirements gathering
+## Solution Architecting
+## Code
+## Continuous Integration / Continuous Delivery
+## Automated testing
 ## Version control
 ### Terms
 * 
