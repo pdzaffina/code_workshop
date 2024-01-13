@@ -1,12 +1,13 @@
 # Code Workshop
-* [Version Control]()
-## Requirements gathering
-## Solution Architecting
-## Code
-## Continuous Integration / Continuous Delivery
-## Automated testing
+* [Version Control](https://github.com/pdzaffina/code_workshop/blob/main/README.md#version-control)
+* [Requirements gathering](https://github.com/pdzaffina/code_workshop/blob/main/README.md#)
+* [Solution Architecting](https://github.com/pdzaffina/code_workshop/blob/main/README.md#)
+* [Code](https://github.com/pdzaffina/code_workshop/blob/main/README.md#)
+* [Continuous Integration / Continuous Delivery](https://github.com/pdzaffina/code_workshop/blob/main/README.md#)
+* [Automated testing](https://github.com/pdzaffina/code_workshop/blob/main/README.md#)
+
 ## Version control
-### Terms
+### Terms 
 * 
 * 
 ### Purpose
