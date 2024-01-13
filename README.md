@@ -1,53 +1,51 @@
 # Code Workshop
-* [Version Control](https://github.com/pdzaffina/code_workshop/blob/main/README.md#version-control)
+<!-- * [Version Control](https://github.com/pdzaffina/code_workshop/blob/main/README.md#version-control)
 * [Requirements Gathering](https://github.com/pdzaffina/code_workshop/blob/main/README.md#requirements-gathering)
 * [Solution Architecting](https://github.com/pdzaffina/code_workshop/blob/main/README.md#solution-architecting)
 * [Code](https://github.com/pdzaffina/code_workshop/blob/main/README.md#code)
 * [Continuous Integration / Continuous Delivery](https://github.com/pdzaffina/code_workshop/blob/main/README.md#continuous-integration--continuous-delivery)
-* [Automated Testing](https://github.com/pdzaffina/code_workshop/blob/main/README.md#automated-testing)
+* [Automated Testing](https://github.com/pdzaffina/code_workshop/blob/main/README.md#automated-testing) -->
 
 <details>
-  <summary>Click to expand/collapse</summary>
+   <summary>Version Control</summary>
+   
+   ## Version Control
 
+   ### Purpose
+   Version control, also known as source control or revision control, serves a crucial role in software development. Its primary purpose is to manage changes to a project's source code over time. Here's a step-by-step explanation of its purpose:
 
+   1. **History Tracking:**
+      - Source control allows developers to track the entire history of changes made to the codebase. Each change, or "commit," is documented along with information about who made the change, when it was made, and why.
 
+   2. **Collaboration:**
+      - In collaborative software development, multiple developers often work on the same codebase. Source control enables seamless collaboration by allowing different developers to work on different branches or features concurrently. It helps prevent conflicts and provides mechanisms to merge changes.
 
+   3. **Code Backup:**
+      - Source control acts as a reliable backup system for code. If an error occurs or an undesired change is made, developers can revert to a previous version, ensuring that the project is not irreversibly damaged.
 
+   4. **Parallel Development:**
+      - Teams can work on different features or bug fixes simultaneously without interfering with each other's work. Source control provides the ability to create branches, allowing developers to isolate changes until they are ready to be integrated into the main codebase.
 
+   5. **Code Review:**
+      - Many source control systems facilitate code review processes. Developers can submit their changes for review before integration, ensuring that code quality and best practices are maintained.
 
-## Version Control
+   6. **Traceability:**
+      - Source control enhances traceability by associating each change with specific issues or tasks. This helps in understanding why certain modifications were made and their impact on the overall project.
 
-### Purpose
-Version control, also known as source control or revision control, serves a crucial role in software development. Its primary purpose is to manage changes to a project's source code over time. Here's a step-by-step explanation of its purpose:
+   7. **Continuous Integration/Continuous Deployment (CI/CD):**
+      - Source control is often integrated with CI/CD pipelines. This allows for automated testing and deployment, ensuring that changes are validated and deployed to production efficiently.
 
-1. **History Tracking:**
-   - Source control allows developers to track the entire history of changes made to the codebase. Each change, or "commit," is documented along with information about who made the change, when it was made, and why.
+   8. **Rollback Mechanism:**
+      - If a release introduces unforeseen issues or bugs, source control enables a quick and controlled rollback to a stable version, minimizing downtime and potential disruptions.
 
-2. **Collaboration:**
-   - In collaborative software development, multiple developers often work on the same codebase. Source control enables seamless collaboration by allowing different developers to work on different branches or features concurrently. It helps prevent conflicts and provides mechanisms to merge changes.
-
-3. **Code Backup:**
-   - Source control acts as a reliable backup system for code. If an error occurs or an undesired change is made, developers can revert to a previous version, ensuring that the project is not irreversibly damaged.
-
-4. **Parallel Development:**
-   - Teams can work on different features or bug fixes simultaneously without interfering with each other's work. Source control provides the ability to create branches, allowing developers to isolate changes until they are ready to be integrated into the main codebase.
-
-5. **Code Review:**
-   - Many source control systems facilitate code review processes. Developers can submit their changes for review before integration, ensuring that code quality and best practices are maintained.
-
-6. **Traceability:**
-   - Source control enhances traceability by associating each change with specific issues or tasks. This helps in understanding why certain modifications were made and their impact on the overall project.
-
-7. **Continuous Integration/Continuous Deployment (CI/CD):**
-   - Source control is often integrated with CI/CD pipelines. This allows for automated testing and deployment, ensuring that changes are validated and deployed to production efficiently.
-
-8. **Rollback Mechanism:**
-   - If a release introduces unforeseen issues or bugs, source control enables a quick and controlled rollback to a stable version, minimizing downtime and potential disruptions.
-
-### Actions
-1. Sign up for [Github](https://github.com/) account
+   ### Actions
+   1. Sign up for [Github](https://github.com/) account
 
 </details>
+
+<details>
+   <summary>Requirements Gathering</summary>
+
 ## Requirements gathering
 ### Purpose
 
@@ -105,6 +103,11 @@ By following these steps, you can effectively use GitHub as a collaborative plat
 ### Actions
 1. Brainstorm a list of things you will need for your project.
 2. Create User Stories for the first 3 or 4 to get a feel for the process.
+
+</details>
+
+<details>
+   <summary>Solution Architecting</summary>
 
 ## Solution Architecting
 ### Purpose
@@ -167,11 +170,20 @@ The solution architecture process is iterative and collaborative, involving stak
       A[User] -->|Requests| B[GitHub Pages]
    end
    ```
+</details>
+
+<details>
+   <summary>Code</summary>
 
 ## Code
 ### Actions
 1. learn md syntax
 2. write posts
+
+</details>
+
+<details>
+   <summary>Continuous Integration / Continuous Delivery</summary>
 
 ## Continuous Integration / Continuous Delivery
 ### Purpose
@@ -202,6 +214,12 @@ Continuous Integration (CI) and Continuous Delivery (CD) are practices in softwa
 CI focuses on integrating code changes frequently to detect and address integration issues early in the development process. CD, on the other hand, extends this by automating the entire delivery pipeline, ensuring that the software is always in a deployable state, ready for production release. Together, CI/CD practices contribute to a more efficient, reliable, and scalable software development and delivery process.
 ### Actions
 1. commit to branch
+
+</details>
+
+<details>
+   <summary>Automated Testing</summary>
+
 ## Automated testing
 ### Purpose
 Automated testing serves several important purposes in software development, contributing to the overall quality, efficiency, and reliability of the software development process. Here are the key purposes of automated testing:
@@ -299,4 +317,6 @@ jobs:
 6. **Filter by Word:**
    - You might need to use additional tools or scripts to filter the results based on a certain word. This might involve parsing the output and checking for the specific word.
 
-Remember to adapt the above example based on the specific spell-checking tool and requirements of your project. Also, check for any updates or new GitHub Actions features introduced after my last knowledge update in January 2022.
+Remember to adapt the above example based on the specific spell-checking tool and requirements of your project.
+
+</details>
