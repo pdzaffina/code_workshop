@@ -3,7 +3,7 @@
 * [Requirements Gathering](https://github.com/pdzaffina/code_workshop/blob/main/README.md#requirements-gatehring)
 * [Solution Architecting](https://github.com/pdzaffina/code_workshop/blob/main/README.md#solution-archetecting)
 * [Code](https://github.com/pdzaffina/code_workshop/blob/main/README.md#code)
-* [Continuous Integration / Continuous Delivery](https://github.com/pdzaffina/code_workshop/blob/main/README.md#)
+* [Continuous Integration / Continuous Delivery](https://github.com/pdzaffina/code_workshop/blob/main/README.md#continuous-integration--continuous-delivery)
 * [Automated Testing](https://github.com/pdzaffina/code_workshop/blob/main/README.md#automated-testing)
 
  ## Version Control
