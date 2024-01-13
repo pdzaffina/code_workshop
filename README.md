@@ -6,13 +6,8 @@
 * [Continuous Integration / Continuous Delivery](https://github.com/pdzaffina/code_workshop/blob/main/README.md#)
 * [Automated testing](https://github.com/pdzaffina/code_workshop/blob/main/README.md#)
 
-<details>
-   <summary>
-   ## Version control
-   
-   ### Terms 
-   * 
-   * 
+ ## Version control
+
 ### Purpose
 Version control, also known as source control or revision control, serves a crucial role in software development. Its primary purpose is to manage changes to a project's source code over time. Here's a step-by-step explanation of its purpose:
 
@@ -43,10 +38,9 @@ Version control, also known as source control or revision control, serves a cruc
 ### Actions
 1. Sign up for [Github](https://github.com/) account
 
-   </summary>
-</details>
-## Requirements gathering
 
+## Requirements gathering
+### Purpose
 
 Managing requirements in an agile software development project using GitHub involves leveraging its features for collaboration, issue tracking, and documentation. Here are step-by-step instructions:
 
@@ -98,6 +92,10 @@ Managing requirements in an agile software development project using GitHub invo
     - At the end of each sprint or iteration, conduct a review of completed user stories and hold a retrospective to identify improvements for the next iteration.
 
 By following these steps, you can effectively use GitHub as a collaborative platform for managing requirements in an agile software development project, promoting transparency, collaboration, and efficient tracking of project progress.
+
+### Actions
+1. Brainstorm a list of things you will need for your project.
+2. Create User Stories for the first 3 or 4 to get a feel for the process.
 
 ## Solution Architecting
 ## Code
