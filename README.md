@@ -98,6 +98,21 @@ By following these steps, you can effectively use GitHub as a collaborative plat
 2. Create User Stories for the first 3 or 4 to get a feel for the process.
 
 ## Solution Architecting
+### Purpose
+xcxcx
+### Actions
+1. Draw a diagram
+
+   ```mermaid
+
+   graph TD
+   subgraph "User's Browser"
+      A[User] -->|Requests| B[GitHub Pages]
+   end
+   ```
+
 ## Code
+
 ## Continuous Integration / Continuous Delivery
 ## Automated testing
+
