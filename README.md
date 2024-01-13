@@ -6,7 +6,16 @@
 * [Continuous Integration / Continuous Delivery](https://github.com/pdzaffina/code_workshop/blob/main/README.md#continuous-integration--continuous-delivery)
 * [Automated Testing](https://github.com/pdzaffina/code_workshop/blob/main/README.md#automated-testing)
 
- ## Version Control
+<details>
+  <summary>Click to expand/collapse</summary>
+
+
+
+
+
+
+
+## Version Control
 
 ### Purpose
 Version control, also known as source control or revision control, serves a crucial role in software development. Its primary purpose is to manage changes to a project's source code over time. Here's a step-by-step explanation of its purpose:
@@ -38,7 +47,7 @@ Version control, also known as source control or revision control, serves a cruc
 ### Actions
 1. Sign up for [Github](https://github.com/) account
 
-
+</details>
 ## Requirements gathering
 ### Purpose
 
