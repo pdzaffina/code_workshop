@@ -1,12 +1,12 @@
 # Code Workshop
 * [Version Control](https://github.com/pdzaffina/code_workshop/blob/main/README.md#version-control)
-* [Requirements gathering](https://github.com/pdzaffina/code_workshop/blob/main/README.md#)
-* [Solution Architecting](https://github.com/pdzaffina/code_workshop/blob/main/README.md#)
-* [Code](https://github.com/pdzaffina/code_workshop/blob/main/README.md#)
+* [Requirements Gathering](https://github.com/pdzaffina/code_workshop/blob/main/README.md#requirements-gatehring)
+* [Solution Architecting](https://github.com/pdzaffina/code_workshop/blob/main/README.md#solution-archetecting)
+* [Code](https://github.com/pdzaffina/code_workshop/blob/main/README.md#code)
 * [Continuous Integration / Continuous Delivery](https://github.com/pdzaffina/code_workshop/blob/main/README.md#)
-* [Automated testing](https://github.com/pdzaffina/code_workshop/blob/main/README.md#)
+* [Automated Testing](https://github.com/pdzaffina/code_workshop/blob/main/README.md#automated-testing)
 
- ## Version control
+ ## Version Control
 
 ### Purpose
 Version control, also known as source control or revision control, serves a crucial role in software development. Its primary purpose is to manage changes to a project's source code over time. Here's a step-by-step explanation of its purpose:
