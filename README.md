@@ -1,7 +1,7 @@
 # Code Workshop
 * [Version Control](https://github.com/pdzaffina/code_workshop/blob/main/README.md#version-control)
-* [Requirements Gathering](https://github.com/pdzaffina/code_workshop/blob/main/README.md#requirements-gatehring)
-* [Solution Architecting](https://github.com/pdzaffina/code_workshop/blob/main/README.md#solution-archetecting)
+* [Requirements Gathering](https://github.com/pdzaffina/code_workshop/blob/main/README.md#requirements-gathering)
+* [Solution Architecting](https://github.com/pdzaffina/code_workshop/blob/main/README.md#solution-architecting)
 * [Code](https://github.com/pdzaffina/code_workshop/blob/main/README.md#code)
 * [Continuous Integration / Continuous Delivery](https://github.com/pdzaffina/code_workshop/blob/main/README.md#continuous-integration--continuous-delivery)
 * [Automated Testing](https://github.com/pdzaffina/code_workshop/blob/main/README.md#automated-testing)
