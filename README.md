@@ -6,10 +6,13 @@
 * [Continuous Integration / Continuous Delivery](https://github.com/pdzaffina/code_workshop/blob/main/README.md#)
 * [Automated testing](https://github.com/pdzaffina/code_workshop/blob/main/README.md#)
 
-## Version control
-### Terms 
-* 
-* 
+<details>
+   <summary>
+   ## Version control
+   
+   ### Terms 
+   * 
+   * 
 ### Purpose
 Version control, also known as source control or revision control, serves a crucial role in software development. Its primary purpose is to manage changes to a project's source code over time. Here's a step-by-step explanation of its purpose:
 
@@ -38,8 +41,64 @@ Version control, also known as source control or revision control, serves a cruc
    - If a release introduces unforeseen issues or bugs, source control enables a quick and controlled rollback to a stable version, minimizing downtime and potential disruptions.
 
 ### Actions
-1. Sign up for [Github](https://github.com/) account 
+1. Sign up for [Github](https://github.com/) account
+
+   </summary>
+</details>
 ## Requirements gathering
+
+
+Managing requirements in an agile software development project using GitHub involves leveraging its features for collaboration, issue tracking, and documentation. Here are step-by-step instructions:
+
+1. **Create a Repository:**
+   - Start by creating a new GitHub repository dedicated to your agile project. This will serve as the central repository for all your project-related information.
+
+2. **Establish Project Structure:**
+   - Organize your repository with a clear structure. You might create folders for documentation, user stories, acceptance criteria, and any other relevant information. This ensures a systematic arrangement of project artifacts.
+
+3. **Issues for User Stories:**
+   - Use GitHub Issues to represent user stories. Each user story becomes an issue. Include a clear title, description, and labels for categorization (e.g., enhancement, feature, etc.).
+   - A user story is a concise description of a feature from an end-user perspective. It typically follows the format: "As a [type of user], I want [an action] so that [benefit/value]." Here's an example:
+     -  **User Story:**
+       - "As a registered user, I want to be able to reset my password so that I can regain access to my account in case I forget my login credentials."
+     - **Explanation:**
+       - **As a [type of user]:** In this case, it's a "registered user." This specifies the category of users for whom the feature is intended.
+  
+       - **I want [an action]:** The desired action is "to be able to reset my password." This describes the functionality or behavior that the user is requesting.
+
+       - **So that [benefit/value]:** The reason behind the user's request is "so that I can regain access to my account in case I forget my login credentials." This articulates the value or benefit that the user expects from the proposed feature.
+
+    - This user story is clear, specific, and focused on the user's needs. It sets the stage for the development team to understand the context, purpose, and expected outcome of the requested feature, making it easier to plan and implement the necessary functionality.
+
+4. **Labels for Prioritization:**
+   - Utilize labels to prioritize user stories. Labels like "high priority," "medium priority," or "low priority" help in identifying and sorting issues based on their importance.
+
+5. **Assignees and Milestones:**
+   - Assign user stories to specific team members by using the "Assignees" field. Additionally, use GitHub milestones to group related user stories together and track progress over specific timeframes, such as sprints.
+
+6. **Enhanced Descriptions:**
+   - Provide detailed descriptions for each user story. Include acceptance criteria, constraints, and any additional information necessary for understanding and implementing the requirements.
+
+7. **Discussion and Collaboration:**
+   - Leverage the discussion section within each issue to facilitate collaboration. Team members can ask questions, provide feedback, and engage in discussions related to specific user stories.
+
+8. **Use Projects for Sprint Planning:**
+   - GitHub Projects can be used to create boards that represent your agile sprints. Create columns for "To Do," "In Progress," and "Done." Move issues across these columns as they progress through the sprint.
+
+9. **Pull Requests for Changes:**
+   - If a user story requires changes or updates, create a new branch, make the necessary modifications, and submit a pull request. This allows for code review and discussion before merging changes into the main branch.
+
+10. **Documentation in the Wiki:**
+    - GitHub provides a Wiki feature where you can document additional project-related information, such as requirements documentation, system architecture, and any other relevant details.
+
+11. **Continuous Integration (Optional):**
+    - Integrate GitHub Actions or other CI tools to automate testing and ensure that the implemented user stories meet the acceptance criteria before merging into the main branch.
+
+12. **Review and Retrospective:**
+    - At the end of each sprint or iteration, conduct a review of completed user stories and hold a retrospective to identify improvements for the next iteration.
+
+By following these steps, you can effectively use GitHub as a collaborative platform for managing requirements in an agile software development project, promoting transparency, collaboration, and efficient tracking of project progress.
+
 ## Solution Architecting
 ## Code
 ## Continuous Integration / Continuous Delivery
