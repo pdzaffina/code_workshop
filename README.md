@@ -11,7 +11,7 @@
 * 
 * 
 ### Purpose
-Source control, also known as version control or revision control, serves a crucial role in software development. Its primary purpose is to manage changes to a project's source code over time. Here's a step-by-step explanation of its purpose:
+Version control, also known as source control or revision control, serves a crucial role in software development. Its primary purpose is to manage changes to a project's source code over time. Here's a step-by-step explanation of its purpose:
 
 1. **History Tracking:**
    - Source control allows developers to track the entire history of changes made to the codebase. Each change, or "commit," is documented along with information about who made the change, when it was made, and why.
