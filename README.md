@@ -230,7 +230,8 @@ Automated testing serves several important purposes in software development, con
 Automated testing is a critical component of modern software development, offering benefits such as early bug detection, continuous integration support, efficient testing, and overall improvement in software quality and reliability.
 
 ### Actions
-1. create a test to run on code commit. since this is mostly text, use a spell checking test as an exercise.
+1. Create a test to run on code commit. Since this is mostly text, use a spell checking test as an exercise.
+2. Checking that all links work might also be a god idea.
 
 GitHub Actions itself does not provide a built-in action specifically for spell-checking markdown files with respect to a certain word. However, you can create a custom GitHub Action that integrates with existing spell-checking tools.
 
