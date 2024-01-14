@@ -48,7 +48,7 @@
 
 ## Requirements gathering
 ### Purpose
-Focusing on requirements helps us to plan out the work and the solution.
+Focusing on requirements helps us to plan out the work and ensure the solution meets our users' needs.
 
 ### Types of Requirements
 
