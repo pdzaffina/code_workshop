@@ -48,6 +48,86 @@
 
 ## Requirements gathering
 ### Purpose
+Focusing on requirements helps us to plan out the work and the solution.
+
+### Types of Requirements
+
+Functional and non-functional requirements are two different types of requirements in software development, each serving a distinct purpose. Here's an overview of the key differences between them:
+
+1. **Functional Requirements:**
+   - **Purpose:** Functional requirements describe the specific features and functionalities that a system must provide to meet the needs of its users.
+   - **Nature:** These requirements define what the system is supposed to do, the actions it should perform, and the services it should offer.
+   - **Examples:** "The system should allow users to log in," "Users should be able to submit a form," or "The application must generate monthly reports."
+
+2. **Non-functional Requirements:**
+   - **Purpose:** Non-functional requirements specify the criteria that characterize the operation of the system, focusing on aspects such as performance, reliability, usability, and security.
+   - **Nature:** These requirements define how the system should behave in terms of qualities and constraints rather than specific features.
+   - **Examples:** "The system should respond to user queries within two seconds," "The application must be available 99.9% of the time," or "The user interface should be intuitive and easy to navigate."
+
+3. **Focus on What vs. How:**
+   - **Functional Requirements:** Focus on the "what" – what the system should do in terms of specific features and functionalities.
+   - **Non-functional Requirements:** Focus on the "how" – how the system should perform and behave in terms of qualities and constraints.
+
+4. **Measurability:**
+   - **Functional Requirements:** Typically, measurable in terms of specific actions or behaviors that can be tested.
+   - **Non-functional Requirements:** Often measurable but may involve qualities that are more challenging to quantify precisely.
+
+5. **Categories of Non-functional Requirements:**
+   
+   Often refered to as the "ilities". "Ilities" is a colloquial term used in software engineering to refer to a set of non-functional requirements or qualities that a system should possess. These qualities, often ending in "-ility," describe various attributes that are essential for the overall performance, usability, and success of a software application. Here are some common "ilities" in software development:
+
+   * **Reliability:**
+     - The ability of a system to consistently perform as expected under specific conditions, without failures or errors.
+
+   * **Availability:**
+     - The extent to which a system is operational and accessible to users when needed, often expressed as a percentage of uptime.
+
+   * **Scalability:**
+     - The capability of a system to handle increased load, either in terms of users, transactions, or data volume, without compromising performance.
+
+   * **Maintainability:**
+     - The ease with which a system can be maintained, updated, and modified over time to adapt to changing requirements or fix issues.
+
+   * **Flexibility:**
+     - The ability of a system to adapt to changes in the environment or user requirements with minimal effort.
+
+   * **Usability:**
+     - The degree to which a system is user-friendly, intuitive, and easy to use, enhancing the overall user experience.
+
+   * **Interoperability:**
+     - The capability of a system to interact and work seamlessly with other systems, software, or components.
+
+   * **Portability:**
+    - The ease with which a system can be transferred or adapted to different environments, platforms, or devices.
+
+   * **Security:**
+    - The protection of a system from unauthorized access, data breaches, and other potential security threats.
+
+   * **Performance:**
+     - The efficiency and responsiveness of a system in terms of speed, throughput, and resource utilization.
+
+   * **Reliability:**
+     - The capability of a system to recover from failures and continue operating without losing data or functionality.
+
+   * **Testability:**
+     - The ease with which a system can be tested to ensure that it meets its specified requirements and functions correctly.
+
+   * **Compliance:**
+     - The adherence of a system to relevant standards, regulations, and legal requirements.
+
+   * **Resilience:**
+     - The ability of a system to recover quickly from failures or disruptions, ensuring minimal impact on overall operations.
+
+   * **Sustainability:**
+     - The consideration of environmental impact and resource usage in the design and operation of a system.
+
+     These "ilities" collectively contribute to the overall quality, reliability, and success of a software system, and they are crucial considerations throughout the software development life cycle. Each "ility" addresses a specific aspect of system behavior or performance, emphasizing the importance of a holistic approach to software engineering.
+
+6. **Change Frequency:**
+   - **Functional Requirements:** Tend to change more frequently, reflecting evolving user needs and features.
+   - **Non-functional Requirements:** Change less frequently and often provide a stable framework for system behavior.
+
+Functional requirements define what the system should do in terms of features and functionalities, while non-functional requirements specify how the system should perform in terms of qualities and constraints. Both types of requirements are crucial for creating a comprehensive and successful software system.
 
 Managing requirements in an agile software development project using GitHub involves leveraging its features for collaboration, issue tracking, and documentation. Here are step-by-step instructions:
 
