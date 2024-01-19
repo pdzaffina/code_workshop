@@ -8,7 +8,17 @@
 
 <details>
    <summary>Version Control</summary>
-   
+
+   ### Session 1
+   * Brief Overview
+   * Sign up for Github
+   * Tour of Github
+      * Repos
+      * Organizations
+         * Public vs. Private
+         * [ES](https://github.com/cno-enterprise-services) 
+         * [SS Eng](https://github.com/SharedServicesEngineers)
+      
    ## Version Control
 
    ### Purpose
