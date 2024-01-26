@@ -20,6 +20,9 @@
          * [ES](https://github.com/cno-enterprise-services) 
          * [SS Eng](https://github.com/SharedServicesEngineers)
       
+   ### Actions
+   1. Sign up for [Github](https://github.com/) account
+
    ## Version Control
 
    ### Purpose
@@ -49,13 +52,20 @@
    8. **Rollback Mechanism:**
       - If a release introduces unforeseen issues or bugs, source control enables a quick and controlled rollback to a stable version, minimizing downtime and potential disruptions.
 
-   ### Actions
-   1. Sign up for [Github](https://github.com/) account
 
 </details>
 
 <details>
    <summary>Requirements Gathering</summary>
+
+### Session 2
+* Solving the right problem.
+* Asking the right questions.
+* Anatomy of a User Story.
+
+### Actions
+1. Brainstorm a list of things you will need for your project.
+2. Create User Stories for the first 3 or 4 to get a feel for the process.
 
 ## Requirements gathering
 ### Purpose
@@ -190,10 +200,6 @@ Managing requirements in an agile software development project using GitHub invo
     - At the end of each sprint or iteration, conduct a review of completed user stories and hold a retrospective to identify improvements for the next iteration.
 
 By following these steps, you can effectively use GitHub as a collaborative platform for managing requirements in an agile software development project, promoting transparency, collaboration, and efficient tracking of project progress.
-
-### Actions
-1. Brainstorm a list of things you will need for your project.
-2. Create User Stories for the first 3 or 4 to get a feel for the process.
 
 </details>
 
