@@ -277,6 +277,8 @@ The solution architecture process is iterative and collaborative, involving stak
 1. learn md syntax
 2. write posts
 
+3. Murder in SQL City.
+
 </details>
 
 <details>
